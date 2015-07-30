@@ -7,9 +7,14 @@ Summarization pattern
 
 Filter pattern
 - Bloom filter
+- Top 10
+- Distinct
 
 Data organization pattern
-
+- structured to hirerachical
+- Partitioning
+- Binning
+- Shuffling
 
 Join pattern
 - Map-side join
